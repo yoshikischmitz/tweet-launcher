@@ -1,0 +1,19 @@
+{
+  "name": "twitter-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "flexsearch": "^0.6.30",
+    "inquirer": "^7.0.0",
+    "inquirer-autocomplete-prompt": "^1.0.1",
+    "lodash": "^4.17.15",
+    "open": "^6.4.0",
+    "twit": "^2.2.11"
+  }
+}
